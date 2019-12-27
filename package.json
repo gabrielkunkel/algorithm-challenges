@@ -1,0 +1,13 @@
+{
+  "name": "algorithm-challenges",
+  "version": "1.0.0",
+  "description": "Algorithm challenges tests and solutions.",
+  "scripts": {
+    "test": "echo \"Test Suite Called\" && node_modules/jasmine/bin/jasmine.js"
+  },
+  "author": "GabrielKunkel",
+  "license": "ISC",
+  "devDependencies": {
+    "jasmine": "^3.4.0"
+  }
+}
